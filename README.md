@@ -7,6 +7,28 @@
 
 - 📫 How to reach me **fanzejiea@gmail.com**
 
+- 🏠 Currently based in Glenunga, Adelaide 5064, Australia.
+
+💻 Web Development Experience
+  
+I have 2 years of hands-on experience in modern web development, with strong proficiency in React, Vue, and Next.js.
+
+☁️ Cloud & Certification
+ 
+I’m a certified AWS Developer, capable of building and deploying scalable, cloud-native applications.
+
+🚀 Open Source Projects
+ 
+I’ve published 2 live open-source projects featuring DevOps automation, showcasing my ability to deliver complete solutions.
+
+🤝 Soft Skills & Collaboration
+ 
+I’m known for strong communication, teamwork, and a proactive attitude — key traits that help teams work efficiently.
+
+🇦🇺 Work Eligibility
+ 
+I am eligible to work in Australia and actively seeking opportunities in innovative and fast-paced environments.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
